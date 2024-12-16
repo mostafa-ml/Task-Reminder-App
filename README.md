@@ -38,4 +38,3 @@ A multithreaded reminder application with a GUI that supports concurrent reminde
      ```bash
      python Gui.py
      ```
-   - The GUI will open, allowing you to add, edit, remove, and manage reminders.
