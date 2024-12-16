@@ -12,7 +12,7 @@ A multithreaded reminder application with a GUI that supports concurrent reminde
 
 3. **Configure Database Connection in `deal_with_db.py`**
    - Open the `deal_with_db.py` file in a text editor or IDE.
-   - Update the `username` and `password` variables with your MySQL credentials:
+   - Update the `user` and `password` variables with your MySQL credentials:
      ```python
      db_config = {
          "host": "localhost",
@@ -23,7 +23,7 @@ A multithreaded reminder application with a GUI that supports concurrent reminde
      ```
 
 4. **Configure Database Connection in `Gui.py`**
-   - Similarly, open the `Gui.py` file and update the `username` and `password` variables to match your MySQL credentials:
+   - Similarly, open the `Gui.py` file and update the `user` and `password` variables to match your MySQL credentials:
      ```python
      db_config = {
          "host": "localhost",
