@@ -9,6 +9,8 @@ A multithreaded reminder application with a GUI that supports concurrent reminde
    - Install **MySQL Server** and **MySQL Workbench** (version 8.0.40 recommended) from the [official MySQL website](https://dev.mysql.com/downloads/installer/).
    - Start the MySQL server and ensure it is running.
 
+
+
 2. **Set Up the Database**
    - Locate the `TaskReminder-db.sql` file in the project directory.
    - Open MySQL Workbench and run the `TaskReminder-db.sql` script to create the database and its associated tables.
